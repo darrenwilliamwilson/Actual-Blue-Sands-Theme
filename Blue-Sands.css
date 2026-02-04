@@ -1,0 +1,276 @@
+:root {
+
+	/* Budget */
+    	--color-budgetCurrentMonth: #FFFFFF;
+     	--color-budgetHeaderCurrentMonth: #F8F6F2;
+      	--color-budgetHeaderOtherMonth: #F8F6F2;
+       	--color-budgetOtherMonth: #FFFFFF;
+
+    /* Budget Numbers */
+    	--color-budgetNumberPositive: #27AB83;
+     	--color-budgetNumberNegative: #DB2B37;
+      	--color-budgetNumberNeutral: #E8ECF0;
+       	--color-budgetNumberZero: #E8ECF0;
+
+    /* Buttons */
+    	--color-buttonBareBackground: transparent;
+     	--color-buttonBareBackgroundActive: transparent;
+      	--color-buttonBareBackgroundHover: transparent;
+       	--color-buttonBareDisabledBackground: transparent;
+        --color-buttonBareDisabledText: #1C1F58;
+        --color-buttonBareText: #1C1F58;
+        --color-buttonBareTextHover: #1C1F58;
+        --color-buttonMenuBackground: #1C1F58;
+        --color-buttonMenuBackgroundHover: #1C1F58;
+        --color-buttonMenuBorder: #1C1F58;
+        --color-buttonMenuSelectedBackground: #1C1F58;
+        --color-buttonMenuSelectedBackgroundHover: #1C1F58;
+        --color-buttonMenuSelectedBorder: #1C1F58;
+        --color-buttonMenuSelectedText: #F5F6FA;
+        --color-buttonMenuSelectedTextHover: #F5F6FA;
+        --color-buttonMenuText: #F5F6FA;
+        --color-buttonMenuTextHover: #F5F6FA;
+        --color-buttonNormalBackground: #1C1F58;
+        --color-buttonNormalBackgroundHover: #1C1F58;
+        --color-buttonNormalBorder: #1C1F58;
+        --color-buttonNormalDisabledBackground: #1C1F58;
+        --color-buttonNormalDisabledBorder: #1C1F58;
+        --color-buttonNormalDisabledText: #F5F6FA;
+        --color-buttonNormalSelectedBackground: #1C1F58;
+        --color-buttonNormalSelectedText: #F5F6FA;
+        --color-buttonNormalShadow: #FFFFFF;
+    	--color-buttonNormalText: #F5F6FA;
+    	--color-buttonNormalTextHover: #F5F6FA;
+
+     	--color-buttonPrimaryBackground: #1C1F58;
+      	--color-buttonPrimaryBackgroundHover: #1C1F58;
+       	--color-buttonPrimaryBorder: #1C1F58;
+        --color-buttonPrimaryDisabledBackground: #1C1F58;
+        --color-buttonPrimaryDisabledBorder: #1C1F58;
+        --color-buttonPrimaryDisabledText: #F5F6FA;
+        --color-buttonPrimaryShadow: transparent;
+        --color-buttonPrimaryText: #FFFFFF;
+        --color-buttonPrimaryTextHover: #F5F6FA;
+
+
+    /* Calendar */
+    	--color-calendarBackground: #F5F6FA;
+    	--color-calendarCellBackground: #F5F6FA;
+    	--color-calendarItemBackground: #F5F6FA;
+    	--color-calendarItemText: #1C1F58;
+    	--color-calendarSelectedBackground: #F5F6FA;
+    	--color-calendarText: #1C1F58;
+
+     /* Card */
+     	--color-cardBackground: #F5F6FA;
+     	--color-cardBorder: #F5F6FA;
+     	--color-cardShadow: transparent;
+     	--color-checkboxBackgroundSelected: #1C1F58;
+     	--color-checkboxBorderSelected: #1C1F58;
+     	--color-checkboxShadowSelected: transparent;
+     	--color-checkboxText: #F5F6FA;
+     	--color-checkboxToggleBackground: #FFFFFF;
+     	--color-checkboxToggleBackgroundSelected: #1C1F58;
+     	--color-checkboxToggleDisabled: #F5F6FA;
+
+      /* Error */
+      	--color-errorBackground: #DB2B37;
+      	--color-errorBorder: #DB2B37;
+      	--color-errorText: #1C1F58;
+      	--color-errorTextDark: #FFFFFF;
+      	--color-errorTextDarker: #FFFFFF;
+      	--color-errorTextMenu: #DB2B37;
+
+    /* Floating */
+    	--color-floatingActionBarBackground: #F5F6FA;
+     	--color-floatingActionBarBorder: #F5F6FA;
+      	--color-floatingActionBarText: #FFFFFF;
+
+    /* Form */
+    	--color-formInputBackground: #F5F6FA;
+    	--color-formInputBackgroundSelected: #F5F6FA;
+    	--color-formInputBackgroundSelection: #F5F6FA;
+    	--color-formInputBorder: #DBD7CC;
+    	--color-formInputBorderSelected: #DBD7CC;
+     	--color-formInputShadowSelected: transparent;
+     	--color-formInputText: #1C1F58;
+     	--color-formInputTextHighlight: #F6C91D;
+     	--color-formInputTextPlaceholder: #1C1F58;
+     	--color-formInputTextPlaceholderSelected: #1C1F58;
+     	--color-formInputTextReadOnlySelection: #F5F6FA;
+     	--color-formInputTextSelected: #1C1F58;
+     	--color-formInputTextSelection: #1C1F58;
+
+      	--color-formLabelBackground: #F5F6FA;
+       	--color-formLabelText: #1C1F58;
+
+    /* Markdown */
+    	--color-markdownDark: #1C1F58;
+     	--color-markdownLight: #1C1F58;
+      	--color-markdownNormal: #DB2B37;
+
+    /* Menu */
+    	--color-menuAutoCompleteBackground: #F5F6FA;
+     	--color-menuAutoCompleteBackgroundHover: transparent;
+      	--color-menuAutoCompleteItemText: #1C1F58;
+      	--color-menuAutoCompleteItemTextHover: #1C1F58;
+      	--color-menuAutoCompleteText: #1C1F58;
+      	--color-menuAutoCompleteTextHeader: #F6C91D;
+      	--color-menuAutoCompleteTextHover: #F6C91D;
+      	--color-menuBackground: #F5F6FA;
+      	--color-menuBorder: #F5F6FA;
+      	--color-menuBorderHover: #F5F6FA;
+
+    /* Menu Item*/
+    	--color-menuItemBackground: #F5F6FA;
+    	--color-menuItemBackgroundHover: transparent;
+    	--color-menuItemText: #1C1F58;
+    	--color-menuItemTextHeader: #1C1F58;
+    	--color-menuItemTextHover: #1C1F58;
+    	--color-menuItemTextSelected: #DB2B37;
+    	--color-menuKeybindingText: #1C1F58;
+
+     /* Mobile */
+     	--color-mobileAccountShadow: transparent;
+     	--color-mobileAccountText: #1C1F58;
+     	--color-mobileConfigServerViewTheme: #1C1F58;
+     	--color-mobileHeaderBackground: #F5F6FA;
+      	--color-mobileHeaderText: #1C1F58;
+      	--color-mobileHeaderTextHover: #1C1F58;
+      	--color-mobileHeaderTextSubdued: #1C1F58;
+      	--color-mobileNavBackground: #FFFFFF;
+       	--color-mobileNavItem: #FFFFFF;
+       	--color-mobileNavItemSelected: #1C1F58;
+       	--color-mobilePageBackground: #F5F6FA;
+       	--color-mobileTransactionSelected: #1C1F58;
+       	--color-mobileViewTheme: #1C1F58;
+       	--color-modalBackground: #F5F6FA;
+       	--color-modalBorder: #F5F6FA;
+
+    /* Note */
+    	--color-noteTagBackground: transparent;
+    	--color-noteTagBackgroundHover: transparent;
+    	--color-noteTagDefault: #F5F6FA;
+    	--color-noteTagText: #F5F6FA;
+
+    /* Notice */
+    	--color-noticeBackground: transparent;
+    	--color-noticeBackgroundDark: #DBD7CC;
+    	--color-noticeBackgroundLight: #DBD7CC;
+    	--color-noticeBorder: #1C1F58;
+    	--color-noticeText: #1C1F58;
+    	--color-noticeTextDark: #1C1F58;
+    	--color-noticeTextLight: #1C1F58;
+    	--color-noticeTextMenu: #1C1F58;
+    	--color-noticeTextMenuHover: #1C1F58;
+
+    /* Overlay */
+    	--color-overlayBackground: rgba(0, 0, 0, 0.7);
+
+     /* Page */
+     	--color-pageBackground: #FFFFFF;
+     	--color-pageBackgroundBottomRight: #FFFFFF;
+     	--color-pageBackgroundLineBottom: #FFFFFF;
+     	--color-pageBackgroundLineMid: #FFFFFF;
+     	--color-pageBackgroundLineTop: #FFFFFF;
+     	--color-pageBackgroundModalActive: #FFFFFF;
+     	--color-pageBackgroundTopLeft: #FFFFFF;
+
+    /* Page Text */
+    	--color-pageText: #1C1F58;
+    	--color-pageTextDark: #1C1F58;
+    	--color-pageTextLight: #1C1F58;
+    	--color-pageTextLink: #1C1F58;
+    	--color-pageTextLinkLight: #1C1F58;
+    	--color-pageTextPositive: #27AB83;
+    	--color-pageTextSubdued: #DBD7CC;
+
+    /* Pill */
+    	--color-pillBackground: #FFFFFF;
+     	--color-pillBackgroundLight: #DBD7CC;
+      	--color-pillBackgroundSelected: #DBD7CC;
+       	--color-pillBorder: #1C1F58;
+        --color-pillBorderDark: #1C1F58;
+        --color-pillBorderSelected: #1C1F58;
+        --color-pillText: #1C1F58;
+        --color-pillTextHighlighted: #1C1F58;
+        --color-pillTextSelected: #1C1F58;
+        --color-pillTextSubdued: #1C1F58;
+
+    /* Some of these aren't used any more  */
+    	--color-reportsBlue: #1C1F58;
+     	--color-reportsGray: #1C1F58;
+      	--color-reportsGreen: #1C1F58;
+       	--color-reportsInnerLabel: #1C1F58;
+        --color-reportsLabel: #1C1F58;
+        --color-reportsRed: #DB2B37;
+
+    /* These are all used */
+    	--color-reportsChartFill: #383CA3;
+     	--color-reportsNumberPositive: #27AB83;
+      	--color-reportsNumberNegative: #DB2B37;
+       	--color-reportsNumberNeutral: #1C1F58;
+
+    /* Side Menu */
+    	--color-sidebarBackground: #1C1F58;
+     	--color-sidebarBudgetName: #FFFFFF;
+      	--color-sidebarItemAccentSelected: transparent;
+       	--color-sidebarItemBackgroundFailed: #DB2B37;
+        --color-sidebarItemBackgroundHover: #383CA3;
+        --color-sidebarItemBackgroundPending: #1C1F58;
+        --color-sidebarItemBackgroundPositive: #27AB83;
+        --color-sidebarItemText: #FFFFFF;
+        --color-sidebarItemTextSelected: #F5CB42;
+
+    /* Table */
+    	--color-tableBackground: #FFFFFF;
+     	--color-tableBorder: #DBD7CC;
+      	--color-tableBorderHover: #1C1F58;
+       	--color-tableBorderSelected: #DBD7CC;
+        --color-tableBorderSeparator: #DBD7CC;
+        --color-tableHeaderBackground: #DBD7CC;
+        --color-tableHeaderText: #1C1F58;
+
+    /* Table Row */
+    	--color-tableRowBackgroundHighlight: #FFFFFF;
+     	--color-tableRowBackgroundHighlightText: #1C1F58;
+      	--color-tableRowBackgroundHover: #F2F0F0;
+       	--color-tableRowHeaderBackground: #F8F6F2;
+        --color-tableRowHeaderText: #1C1F58;
+
+    /* Table Text */
+    	--color-tableText: #1C1F58;
+     	--color-tableTextHover: #1C1F58;
+      	--color-tableTextInactive: #DBD7CC;
+       	--color-tableTextLight: #1C1F58;
+        --color-tableTextSelected: #1C1F58;
+        --color-tableTextSubdued: #1C1F58;
+
+    /* Tooltip */
+    	--color-tooltipBackground: #F5F6FA;
+     	--color-tooltipBorder: #F5F6FA;
+      	--color-tooltipText: #1C1F58;
+
+    /* Upcoming */
+    	--color-upcomingBackground: #F8F6F2;
+     	--color-upcomingBorder: #F8F6F2;
+      	--color-upcomingText: #DBD7CC;
+
+    /* Warning */
+    	--color-warningBackground: #F5CB42;
+     	--color-warningBorder: #F5CB42;
+      	--color-warningText: #1C1F58;
+       	--color-warningTextDark: #1C1F58;
+        --color-warningTextLight: #1C1F58;
+
+    /* Number */
+    	--color-numberNegative: #DB2B37;
+     	--color-numberNeutral: #E8ECF0;
+      	--color-numberPositive: #27AB83;
+
+    /* To Budget */
+    	--color-toBudgetNegative: #DB2B37;
+     	--color-toBudgetZero: #E8ECF0;
+      	--color-toBudgetPositive: #27AB83;
+
+}
