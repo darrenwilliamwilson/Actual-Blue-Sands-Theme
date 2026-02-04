@@ -1,2 +1,2 @@
 # Blue Sands Theme for Actual Budget
-[Alt text](C:\Users\darre\Documents\Github\Blue-Sands\Actual-Blue-Sands-Theme\Screenshot.PNG?raw=true "Blue Sands Theme")
+[Alt text](https://github.com/darrenwilliamwilson/Actual-Blue-Sands-Theme/blob/main/Screenshot.PNG)
