@@ -49,7 +49,7 @@
         --color-buttonPrimaryDisabledBorder: #1C1F58;
         --color-buttonPrimaryDisabledText: #F5F6FA;
         --color-buttonPrimaryShadow: transparent;
-        --color-buttonPrimaryText: #FFFFFF;
+        --color-buttonPrimaryText: #F5F6FA;
         --color-buttonPrimaryTextHover: #F5F6FA;
 
     /* Calendar */
@@ -75,7 +75,7 @@
       /* Error */
       	--color-errorBackground: #DB2B37;
       	--color-errorBorder: #DB2B37;
-      	--color-errorText: #1C1F58;
+      	--color-errorText: #000000;
       	--color-errorTextDark: #FFFFFF;
       	--color-errorTextDarker: #FFFFFF;
       	--color-errorTextMenu: #DB2B37;
@@ -139,7 +139,7 @@
       	--color-mobileNavBackground: #FFFFFF;
        	--color-mobileNavItem: #1C1F58;
        	--color-mobileNavItemSelected: #1C1F58;
-       	--color-mobilePageBackground: #F5F6FA;
+       	--color-mobilePageBackground: #D0D0D0;
        	--color-mobileTransactionSelected: #1C1F58;
        	--color-mobileViewTheme: #1C1F58;
        	--color-modalBackground: #F5F6FA;
@@ -163,16 +163,16 @@
     	--color-noticeTextMenuHover: #1C1F58;
 
     /* Overlay */
-    	--color-overlayBackground: rgba(0, 0, 0, 0.7);
+    	--color-overlayBackground: rgba(0, 0, 0, 0.3);
 
      /* Page */
-     	--color-pageBackground: #FFFFFF;
-     	--color-pageBackgroundBottomRight: #FFFFFF;
-     	--color-pageBackgroundLineBottom: #FFFFFF;
-     	--color-pageBackgroundLineMid: #FFFFFF;
-     	--color-pageBackgroundLineTop: #FFFFFF;
-     	--color-pageBackgroundModalActive: #FFFFFF;
-     	--color-pageBackgroundTopLeft: #FFFFFF;
+     	--color-pageBackground: #ECECEC;
+     	--color-pageBackgroundBottomRight: #ECECEC;
+     	--color-pageBackgroundLineBottom: #ECECEC;
+     	--color-pageBackgroundLineMid: #ECECEC;
+     	--color-pageBackgroundLineTop: #ECECEC;
+     	--color-pageBackgroundModalActive: #ECECEC;
+     	--color-pageBackgroundTopLeft: #ECECEC;
 
     /* Page Text */
     	--color-pageText: #1C1F58;
