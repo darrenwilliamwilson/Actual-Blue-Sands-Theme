@@ -9,7 +9,7 @@
     /* Budget Numbers */
     	--color-budgetNumberPositive: #27AB83;
      	--color-budgetNumberNegative: #DB2B37;
-      	--color-budgetNumberNeutral: #E8ECF0;
+      	--color-budgetNumberNeutral: #1C1F58;
        	--color-budgetNumberZero: #E8ECF0;
 
     /* Buttons */
@@ -51,7 +51,6 @@
         --color-buttonPrimaryShadow: transparent;
         --color-buttonPrimaryText: #FFFFFF;
         --color-buttonPrimaryTextHover: #F5F6FA;
-
 
     /* Calendar */
     	--color-calendarBackground: #F5F6FA;
@@ -100,7 +99,6 @@
      	--color-formInputTextReadOnlySelection: #F5F6FA;
      	--color-formInputTextSelected: #1C1F58;
      	--color-formInputTextSelection: #1C1F58;
-
       	--color-formLabelBackground: #F5F6FA;
        	--color-formLabelText: #1C1F58;
 
@@ -139,7 +137,7 @@
       	--color-mobileHeaderTextHover: #1C1F58;
       	--color-mobileHeaderTextSubdued: #1C1F58;
       	--color-mobileNavBackground: #FFFFFF;
-       	--color-mobileNavItem: #FFFFFF;
+       	--color-mobileNavItem: #1C1F58;
        	--color-mobileNavItemSelected: #1C1F58;
        	--color-mobilePageBackground: #F5F6FA;
        	--color-mobileTransactionSelected: #1C1F58;
@@ -187,7 +185,7 @@
 
     /* Pill */
     	--color-pillBackground: #FFFFFF;
-     	--color-pillBackgroundLight: #DBD7CC;
+     	--color-pillBackgroundLight: #FFFFFF;
       	--color-pillBackgroundSelected: #DBD7CC;
        	--color-pillBorder: #1C1F58;
         --color-pillBorderDark: #1C1F58;
