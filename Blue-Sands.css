@@ -30,8 +30,8 @@
         --color-buttonMenuSelectedTextHover: #F5F6FA;
         --color-buttonMenuText: #F5F6FA;
         --color-buttonMenuTextHover: #F5F6FA;
-        --color-buttonNormalBackground: #1C1F58;
-        --color-buttonNormalBackgroundHover: #1C1F58;
+        --color-buttonNormalBackground: #F5F6FA;
+        --color-buttonNormalBackgroundHover: #F5F6FA;
         --color-buttonNormalBorder: #1C1F58;
         --color-buttonNormalDisabledBackground: #1C1F58;
         --color-buttonNormalDisabledBorder: #1C1F58;
@@ -39,8 +39,8 @@
         --color-buttonNormalSelectedBackground: #1C1F58;
         --color-buttonNormalSelectedText: #F5F6FA;
         --color-buttonNormalShadow: #FFFFFF;
-    	--color-buttonNormalText: #F5F6FA;
-    	--color-buttonNormalTextHover: #F5F6FA;
+    	--color-buttonNormalText: #1C1F58;
+    	--color-buttonNormalTextHover: #1C1F58;
 
      	--color-buttonPrimaryBackground: #1C1F58;
       	--color-buttonPrimaryBackgroundHover: #1C1F58;
