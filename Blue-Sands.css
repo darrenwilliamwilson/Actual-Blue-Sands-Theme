@@ -15,7 +15,7 @@
     /* Buttons */
     	--color-buttonBareBackground: transparent;
      	--color-buttonBareBackgroundActive: transparent;
-      	--color-buttonBareBackgroundHover: transparent;
+      	--color-buttonBareBackgroundHover: rgba(182, 182, 182, 0.4);
        	--color-buttonBareDisabledBackground: transparent;
         --color-buttonBareDisabledText: #1C1F58;
         --color-buttonBareText: #1C1F58;
